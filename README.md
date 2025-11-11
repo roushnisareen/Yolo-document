@@ -9,7 +9,8 @@ The model uses pretrained weights which may be dowloaded using this [colab noteb
 [Link]([https://yolodocument-kp8j7kfnsldrfa76ctpcug.streamlit.app/](https://yolo-docsegmentation-bd5ppyigvssua6xcsfuy3u.streamlit.app)) for deployed web-application using streamlit
 
 ## Website Interface and Results
-<img src = "<img width="1430" height="797" alt="yolo" src="https://github.com/user-attachments/assets/f3488f2a-db5b-4a42-886e-3fdadde1e98b" />
+<img src = "<img width="1430" height="797" alt="yolo" src="https://github.com/user-attachments/assets/d6f836af-607c-4d73-ae01-d14c614c10d9" />
+ />
 ">
 
 ### Annotations on document
